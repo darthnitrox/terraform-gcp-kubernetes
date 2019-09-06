@@ -9,5 +9,5 @@
 ### Запуск 
 ```
 1. terraform plan
-2. terraform apply --auto-approve=yes
+2. terraform apply -auto-approve=true
 ```
