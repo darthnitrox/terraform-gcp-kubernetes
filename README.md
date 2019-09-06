@@ -4,3 +4,10 @@
 - main.tf
 - terraform.tfvars
 - variables.tf
+
+
+### Запуск 
+```
+1. terraform plan
+2. terraform apply --auto-approve=yes
+```
