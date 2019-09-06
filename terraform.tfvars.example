@@ -1,0 +1,7 @@
+project_name = "< id project >"
+region = "< region >"
+cluster_zone = "< zone >"
+cluster_name = "< name_cluster >"
+count_cluster_node = < node_count_in_cluster>
+node_cluster_prefix = "< node_prefix >"
+node_machine_type = "< type_node_in_cluster >"
